@@ -16,3 +16,7 @@ Atualmente estou focada em aprender e desenvolver minhas habilidades na área de
 📫 Contato
 
 📩 raynotebook25@gmail.com
+
+---
+
+⭐ Obrigado por visitar meu perfil!
