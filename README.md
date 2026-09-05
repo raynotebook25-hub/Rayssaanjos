@@ -23,7 +23,7 @@
             src="https://custom-icon-badges.demolab.com/github/followers/raynotebook25-hub?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
- <a href="https://www.linkedin.com/in/rayssa-vitoria-990a48296">
+ <a href="www.linkedin.com/in/rayssa-anjos-313550434">
   <img
     alt="LinkedIn"
     title="Meu LinkedIn"
