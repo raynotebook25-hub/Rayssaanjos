@@ -76,8 +76,8 @@ align="left"
 
 📫 Contato
 
-📩 raynotebook25@gmail.com
-📩 rayssaanjos2525@gmail.com
+📩 raynotebook25@gmail.com <br/>
+📩 rayssaanjos2525@gmail.com<br/>
 📞 31989797710
 
 ---
