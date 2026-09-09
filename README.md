@@ -86,4 +86,6 @@ align="left"
 
 ⭐ Obrigado por visitar meu perfil!
 
-          
+
+<img width="200" height="200" alt="rayssete_octcat" src="https://github.com/user-attachments/assets/7edfbe59-64ee-4095-ac76-bc1295bfeab3" />
+
