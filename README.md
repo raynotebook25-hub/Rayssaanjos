@@ -3,6 +3,10 @@
 **'Desenvolvedora FullStack'**
 
 • Me chamo Rayssa Vitoria, tenho 22 anos, nasci e fui criada em Belo Horizonte. Conclui meu ensino médio no Colégio Tiradentes da PMMG - Argentino Madeira. Atualmente estou cursando Analise e Desenvolvimento de Sistemas na Estácio, juntamente com o curso de Programação Full Stack na Infinity School. Sou apaixonada por tecnologia, e busco cada vez mais me desenvolver e aprender coisas novas.
+
+* Tenho interesse em trabalhar e crescer na area como desenvolvedora, analista de dados, analista de sistemas.
+<br>
+
 • Em busca de oportunidade de estágio, ou trabalho.
 
 <br/>
